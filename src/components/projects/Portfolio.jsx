@@ -4,19 +4,19 @@ import './portfolio.css';
 const Portfolio = () => {
   const projects = [
     {
-      title: "Rock-Paper-Scissor",
-      description: " A web app to play Rock, Paper, Scissors against a computer.",
-      link: "https://github.com/TanveerKalluru/Rock-Paper-Scissor"
+      title: "AI-Health-Bot",
+      description: "Developed a Streamlit app for symptom transcription, disease prediction.",
+      link: "https://github.com/TanveerKalluru/AI-Health-Bot"
     },
     {
-      title: "YouTube Ad View Predictor",
-      description: "Predicts ad views using ML model",
+      title: "Customer-Churn",
+      description: "Developed a Streamlit app for predicting customer churn using a trained machine learning model.",
+      link: "https://github.com/TanveerKalluru/Customer-Churn-Prediction"
+    },
+    {
+      title: "YouTube Ad View Prediction",
+      description: "A machine learning project to predict YouTube ad view counts based on video and engagement features.",
       link: "https://github.com/TanveerKalluru/youtubeaddviewprediction"
-    },
-    {
-      title: "Blood-Donation",
-      description: " A platform to connect blood donors with recipients efficiently.",
-      link: "https://github.com/TanveerKalluru/Blood-Donation"
     }
   ];
 
